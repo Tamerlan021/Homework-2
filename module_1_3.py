@@ -1,9 +1,9 @@
 name = 'Tamerlan'
-print(name)
+print('Name: ', name)
 age = 19
-print(age)
-age = 19
-new_age = 1
-print(age + new_age)
-is_student = 'true'
-print(is_student)
+print('Age: ', age)
+new_age = age + 1
+print('New Age: ', new_age)
+is_student = True
+print('Is student: ', is_student)
+
